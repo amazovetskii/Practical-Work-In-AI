@@ -4,3 +4,6 @@
 
 # LaTeX build output
 build/
+
+# Literature
+literature/
