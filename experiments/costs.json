@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-11-18T11:53:24",
+  "repeats": 50,
+  "params": {
+    "n_time": 20000,
+    "M": 252,
+    "seed": 10,
+    "statistic": "min"
+  },
+  "costs": {
+    "cost_A": 3.747024992480874e-06,
+    "cost_C": 5.847914144396782e-08,
+    "cost_C_prime": 8.7416497990489e-09,
+    "c": 0.015606819159551233,
+    "c_prime": 0.0023329574306525046
+  },
+  "device": {
+    "cpu": "Apple M1 Pro",
+    "cpu_count": 8,
+    "machine": "arm64",
+    "os": "Darwin 27.0.0",
+    "python_version": "3.13.13",
+    "numpy_version": "2.4.6"
+  }
+}

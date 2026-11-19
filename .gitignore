@@ -8,3 +8,6 @@ build/
 # Literature
 literature/
 notes/
+
+# Python
+__pycache__/
